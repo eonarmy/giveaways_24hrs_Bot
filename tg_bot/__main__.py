@@ -18,13 +18,16 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, Your Name is {}! if you have any questions about How to use me please give me /help... 
+Hi {}, My Name is {}! if you have any questions about How to use me please give me /help... 
 
-I am a Group Manager bot Maintained by  [this person](tg://user?id={}).
+I am a Group Manager Bot
 
-JOIN @eonarmy @joineonarmy
+JOIN @giveaways_24hrs 
+& https://t.me/joinchat/Kt4MWFYKzZhNq-OxWqnghw
 
-WHO WANT NETFLIX,HOTSTAR,AMAZON PRIME AND MORE ACCOUNT SO JOIN @eonarmy @joineonarmy
+WHO WANT NETFLIX,HOTSTAR,AMAZON PRIME AND MORE ACCOUNT SO JOIN @giveaways_24hrs
+&
+https://t.me/joinchat/Kt4MWFYKzZhNq-OxWqnghw
 
 """
 
