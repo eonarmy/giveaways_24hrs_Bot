@@ -22,12 +22,9 @@ Hi {}, My Name is {}! if you have any questions about How to use me please give 
 
 I am a Group Manager Bot
 
-JOIN @giveaways_24hrs 
-& https://t.me/joinchat/Kt4MWFYKzZhNq-OxWqnghw
+JOIN @eonarmy @joineonarmy
 
-WHO WANT NETFLIX,HOTSTAR,AMAZON PRIME AND MORE ACCOUNT SO JOIN @giveaways_24hrs
-&
-https://t.me/joinchat/Kt4MWFYKzZhNq-OxWqnghw
+WHO WANT NETFLIX,HOTSTAR,AMAZON PRIME AND MORE ACCOUNT SO JOIN @eonarmy @joineonarmy
 
 """
 
