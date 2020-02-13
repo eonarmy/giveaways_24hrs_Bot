@@ -22,9 +22,8 @@ Hi {}, My Name is {}! if you have any questions about How to use me please give 
 
 I am a Group Manager Bot
 
-JOIN @eonarmy @joineonarmy
+JOIN @BeingAnonymous @BeingAnonymous_Group
 
-WHO WANT NETFLIX,HOTSTAR,AMAZON PRIME AND MORE ACCOUNT SO JOIN @eonarmy @joineonarmy
 
 """
 
