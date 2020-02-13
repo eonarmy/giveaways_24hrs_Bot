@@ -222,7 +222,8 @@ def list_notes(bot: Bot, update: Update):
     if not conn == False:
         chat_id = conn
         chat_name = dispatcher.bot.getChat(conn).title
-        msg = "*Notes of {chatname}:*\n"
+        msg = "*Notes of Being Anonymous:*\n"
+
     else:
         chat_id = update.effective_chat.id
         if chat.type == "private":
@@ -230,7 +231,7 @@ def list_notes(bot: Bot, update: Update):
             msg = "*Local Notes:*\n"
         else:
             chat_name = chat.title
-            msg = "*Notes of {chatname}:*\n"
+            msg = "*Notes of Being Anonymous:*\n"
 
     note_list = sql.get_all_chat_notes(chat_id)
 
