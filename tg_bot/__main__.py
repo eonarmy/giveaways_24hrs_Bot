@@ -20,10 +20,11 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hi {}, My Name is {}! if you have any questions about How to use me please give me /help... 
 
-I am a Group Manager Bot
+You want your bot like me so DM @xhackerkunal
 
-JOIN @BeingAnonymous @BeingAnonymous_Group
+For more commands click /help...
 
+***WHO WANT NETFLIX,HOTSTAR,AMAZON PRIME AND MORE ACCOUNT SO JOIN @EONARMY @JOINEONARMY***
 
 """
 
@@ -43,7 +44,7 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/mr_4t) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](t.me/xhackerkunal) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
 There are two ways of paying him; [PayPal](paypal.me/eonarmy), or [  ](  )."""
